@@ -1,4 +1,6 @@
 Shopping Cart with Ts
 
 
-![Website](website.png)
+![Website](website-Mobile.png)
+
+![Website](website-Laptop.png)
